@@ -1,10 +1,10 @@
-package com.web.muro;
+package com.rest.common;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MuroApplicationTests {
+class CommonApplicationTests {
 
     @Test
     void contextLoads() {

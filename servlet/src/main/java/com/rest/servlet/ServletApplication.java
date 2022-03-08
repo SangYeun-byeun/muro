@@ -1,13 +1,13 @@
-package com.web.muro;
+package com.rest.servlet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MuroApplication {
+public class ServletApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MuroApplication.class, args);
+        SpringApplication.run(ServletApplication.class, args);
     }
 
 }
